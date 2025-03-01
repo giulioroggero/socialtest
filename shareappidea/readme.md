@@ -1,5 +1,5 @@
 Sample Canvas Application
--------------------------
+------------------------- u
 
 Run with Friends is a sample web based **[Facebook Canvas
 Application](http://developers.facebook.com/docs/guides/canvas/)**. Visit
